@@ -2,7 +2,6 @@
 
 from flask import Flask
 from flask import request
-from flask import render_template
 import spotipy
 import mechanize
 from bs4 import BeautifulSoup
